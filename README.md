@@ -1,6 +1,5 @@
 CONCESIONARIA:
-este proyecto hecho en java utilizando la Programación Orientada a Objetos es el funcionamiento de una concesionaria de vehiculos, este proyecto está hecho de manera que el codigo sea escalable,
-utilizando API Stream, framework Collection y con buenas practicas.
+Este proyecto está hecho en java utilizando la Programación Orientada a Objetos, simula el funcionamiento de una concesionaria de vehiculos, este proyecto está hecho de manera que el codigo sea escalable para poder agregar mas tipos de vehivulos y funcionalidades, utilizando API Stream, framework Collection y con buenas practicas.
 
 Tecnologias implementadas: Springboot, maven, lombok
 
