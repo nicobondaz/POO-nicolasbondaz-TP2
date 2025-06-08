@@ -11,63 +11,19 @@ Maven
 
 Lombok
 
-Java Collections Framework
+Framework Collections
 
-Java Stream API
+API Stream
 
-DecimalFormat para una salida precisa y legible de los precios
+DecimalFormat 
 
-🎯 Objetivos del Proyecto
-Aplicar principios de diseño orientado a objetos.
+✅ Funcionalidades
+Buscar el vehículo más caro y más barato
 
-Utilizar buenas prácticas de codificación.
+Buscar modelos por letra o palabra clave
 
-Emplear herramientas modernas del ecosistema Java para construir un proyecto modular, legible y fácil de mantener.
+Ordenar por precio (descendente)
 
-⚙️ Funcionalidades Implementadas
-🔍 Buscar el vehículo más caro y el más barato dentro del inventario.
+Ordenar por marca, modelo y precio
 
-🔠 Buscar vehículos por texto (letra o palabra contenida en el modelo).
-
-📊 Ordenar vehículos por precio de mayor a menor.
-
-🧾 Ordenar por orden natural, teniendo en cuenta:
-
-Marca (alfabéticamente)
-
-Modelo
-
-Precio
-
-💲 Formato decimal profesional para mostrar los precios de manera clara y exacta.
-
-📈 Escalabilidad
-El código está preparado para crecer. Gracias al uso de abstracciones (como clases base y herencia), se pueden añadir fácilmente:
-
-Nuevas categorías de vehículos (por ejemplo, motos, camiones, etc.).
-
-Funcionalidades adicionales (filtrado por año, tipo de combustible, etc.).
-
-Persistencia de datos con bases de datos o servicios externos, integrando JPA o REST APIs.
-
-📌 Requisitos Previos
-JDK 17 o superior
-
-Maven
-
-IDE recomendado: IntelliJ IDEA o Eclipse
-
-
-
-
-
-CONCESIONARIA:
-Este proyecto está hecho en java utilizando la Programación Orientada a Objetos, simula el funcionamiento de una concesionaria de vehiculos, este proyecto está hecho de manera que el codigo sea escalable para poder agregar mas tipos de vehivulos y funcionalidades, utilizando API Stream, framework Collection y con buenas practicas.
-
-Tecnologias implementadas: Springboot, maven, lombok
-
-Funcionalidades:
-*Buscar el vehiculo más caro y el más barato
-*Buscar modelos por letra
-*Ordenar por precio de mayor a menor y el orden natural: marca, modelo y precio
-*implementacion de decimal format para un resultado exacto y practico 
+Mostrar precios con formato decimal claro
