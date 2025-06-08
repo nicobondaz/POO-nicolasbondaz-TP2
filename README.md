@@ -3,8 +3,7 @@
 Este proyecto está desarrollado en Java utilizando el paradigma de Programación Orientada a Objetos (POO). Simula el funcionamiento básico de una concesionaria de vehículos, y está diseñado con una arquitectura escalable, permitiendo fácilmente la incorporación de nuevos tipos de vehículos y funcionalidades adicionales.
 
 🔧 Tecnologías y Herramientas
-Java
-
+*Java
 Spring Boot
 
 Maven
